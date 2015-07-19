@@ -1,6 +1,6 @@
 /**
  * This library was modified by Harrison Liddiard. The source code to this
- * modified version can be found at https://github.com/liddiard/text-diff/.
+ * modified version can be found at https://github.com/liddiard/google-diff/.
  * The original source code can be found at
  * http://code.google.com/p/google-diff-match-patch/. This unofficial fork is
  * not maintained by or affiliated with Google Inc. The original attribution
@@ -1394,7 +1394,5 @@ this['diff'] = diff;
 this['DIFF_DELETE'] = DIFF_DELETE;
 this['DIFF_INSERT'] = DIFF_INSERT;
 this['DIFF_EQUAL'] = DIFF_EQUAL;
-
-console.log(diff.prototype.prettyHtml);
 
 module.exports = diff;
