@@ -1,6 +1,6 @@
 /**
  * This library was modified by Harrison Liddiard. The source code to this
- * modified version can be found at https://github.com/liddiard/google-diff/.
+ * modified version can be found at https://github.com/liddiard/text-diff/.
  * The original source code can be found at
  * http://code.google.com/p/google-diff-match-patch/. This unofficial fork is
  * not maintained by or affiliated with Google Inc. The original attribution
