@@ -1,6 +1,6 @@
 {
   "name": "text-diff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compute a diff between two pieces of text with support for same-line diffs, and optionally display a visual diff as HTML. Module made from the text-diff-match-patch library.",
   "main": "diff.js",
   "scripts": {
