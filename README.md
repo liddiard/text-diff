@@ -61,10 +61,6 @@ Given a diff, measure its Levenshtein distance in terms of the number of inserte
 
 Takes a diff array and returns a string of pretty HTML. Deletions are wrapped in `<del></del>` tags, and insertions are wrapped in `<ins></ins>` tags. Use CSS to apply styling to these tags.
 
-
-* * *
-
-
-### Tests
+## Tests
 
 Tests have not been ported to this library fork, however tests are [available in the original library](https://github.com/liddiard/google-diff-match-patch/tree/master/javascript). If you would like to port tests over, you will need to do some function call renaming (viz. the `diff_` prefix has been removed from functions in the fork) and remove tests specific to the "patch" and "match" functionalities of the original library.
